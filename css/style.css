@@ -376,6 +376,7 @@ p {
     bottom: -15px;
     left: 30px;
     transform: rotate(45deg);
+    transition: .4s;
 }
 
 .portfolio_item_img_overlay {
@@ -393,6 +394,7 @@ p {
 .portfolio_item_text {
     padding: 30px;
     background: #fbfaf8;
+    transition: .4s;
 
 }
 
@@ -747,6 +749,7 @@ p {
 .recent_post_item_text {
     padding: 30px;
     background: #fbfaf8;
+    transition: .4s;
 }
 
 .recent_post_item_text h3 {
